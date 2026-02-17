@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlexiFit - Fitness Tracking App
 
 A clean, responsive Flutter mobile application for fitness tracking with Material 3 design.
@@ -122,3 +123,6 @@ The app features three main screens:
 ## Author
 
 FlexiFit Fitness Tracking App - Flutter UI Implementation
+=======
+# flutter_3.5
+>>>>>>> 4b87b7d9fc7cace1eacfcb65437dc6a351179c8a
